@@ -37,8 +37,3 @@ A continuación, se presenta una tabla comparativa entre el desarrollo del **Lin
 | **Colaboración y Revisión**       | Revisión de código por múltiples desarrolladores, con procesos formales (pull requests). | Sin revisiones formales, cambios implementados sin validación. |
 | **Escalabilidad y Mantenimiento** | Diseño modular, código mantenible, soporte para múltiples arquitecturas.              | Código monolítico, difícil de mantener o escalar.            |
 | **Cumplimiento Normativo**        | Adherencia a estándares como POSIX y auditorías de seguridad (ej. SELinux).           | Sin consideración de estándares ni normativas.               |
-
-## Referencias
-- Redacción. (2024, 7 enero). *Boeing 737 Max: la atribulada historia de los aviones que las autoridades de EE.UU. inmovilizaron tras el incidente de Alaska Airlines*. BBC News Mundo. [https://www.bbc.com/mundo/articles/cjlgd6w2986o](https://www.bbc.com/mundo/articles/cjlgd6w2986o)
-- Parra, S. (2024, 9 enero). *La turbulenta historia del Boeing 737 Max 9*. National Geographic España. [https://www.nationalgeographic.com.es/mundo-ng/turbulenta-historia-boeing-737-max-9_21370](https://www.nationalgeographic.com.es/mundo-ng/turbulenta-historia-boeing-737-max-9_21370)
-- Wikipedia. (2025, 18 marzo). *Suspensión de vuelo del Boeing 737 MAX*. Wikipedia, la Enciclopedia Libre. [https://es.wikipedia.org/wiki/Suspensi%C3%B3n_de_vuelo_del_Boeing_737_MAX](https://es.wikipedia.org/wiki/Suspensi%C3%B3n_de_vuelo_del_Boeing_737_MAX)
